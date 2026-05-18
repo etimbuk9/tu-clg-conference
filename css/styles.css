@@ -58,7 +58,8 @@ body {
 
 /* ── Hero Section ────────────────────────────── */
 #hero {
-  background: linear-gradient(135deg, var(--tu-navy) 0%, var(--tu-purple) 100%);
+  background: linear-gradient(135deg, rgba(49,73,145,0.88) 0%, rgba(111,68,141,0.88) 100%),
+              url('https://images.unsplash.com/photo-1529070538774-1843cb3265df?w=1600&q=80') center/cover no-repeat;
   color: var(--tu-white);
   padding: 5rem 0 4rem;
   position: relative;
